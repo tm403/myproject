@@ -1,5 +1,5 @@
 # myproject
-test
+test2
 
 Hello ward!
 bye!
